@@ -1,1 +1,6 @@
-# bayesian_temperature
+Academic project. 
+
+We developed a complete pipeline based on Bayesian statistics and modeling using PyMC. The dataset was the [Climate Change dataset](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data) from Berkeley Earth. 
+
+The work ranges from an exploration of the dataset to multiple frequentist/Bayesian hypothesis tests, linear regression models, and a comparison between pooleed, unpooled and hierarchical bayesian models performances on the dataset.
+Each section contains detailed thinking process for the priors, prior and posterior predictive checks as well as visual aids.
